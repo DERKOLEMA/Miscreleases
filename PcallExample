@@ -1,0 +1,20 @@
+aload = function()
+    if klrnl then
+        print("krnl")
+    end
+end
+bload = function()
+    if syn then
+        print("syn")
+    end
+end
+
+local l, _ =
+    pcall(
+    function()
+        aload()
+    end
+)
+if not l then
+    bload()
+end
