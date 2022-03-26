@@ -1,4 +1,4 @@
-# Criminal Russia Roleplay
+# [Criminal Russia Roleplay](https://www.roblox.com/games/7094672259/)
 
 [Player]
   * WalkSpeed changer (Slider)
