@@ -1,7 +1,5 @@
 # Criminal Russia Roleplay
-
-#Character
-
+##Character
 [Player]
   * WalkSpeed changer (Slider)
   * JumpPower changer (Slider)
