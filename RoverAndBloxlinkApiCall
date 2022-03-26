@@ -1,10 +1,17 @@
 local DiscordID = "ID"
 
 local function json_decode(txt)
-   return game:GetService("HttpService"):JSONDecode(txt)
+    return game:GetService("HttpService"):JSONDecode(txt)
 end
 
-local RoverRobloxUsername = json_decode(syn.request({Url='https://verify.eryn.io/api/user/'..DiscordID}).Body)['robloxUsername']
-local BloxlinkRobloxId = json_decode(syn.request({Url='https://api.blox.link/v1/user/'..DiscordID; Method = 'GET'}).Body)['primaryAccount']
-local BloxlinkRobloxUsername = json_decode(syn.request({Url='https://api.roblox.com/users/'..BloxlinkRobloxId; Method = 'GET'}).Body)['Username']
-print(RoverRobloxUsername,BloxlinkRobloxUsername)
+local RoverRobloxUsername =
+    json_decode(syn.request({Url = "https://verify.eryn.io/api/user/" .. DiscordID}).Body)["robloxUsername"]
+local BloxlinkRobloxId =
+    json_decode(syn.request({Url = "https://api.blox.link/v1/user/" .. DiscordID, Method = "GET"}).Body)[
+    "primaryAccount"
+]
+local BloxlinkRobloxUsername =
+    json_decode(syn.request({Url = "https://api.roblox.com/users/" .. BloxlinkRobloxId, Method = "GET"}).Body)[
+    "Username"
+]
+print(RoverRobloxUsername, BloxlinkRobloxUsername)
