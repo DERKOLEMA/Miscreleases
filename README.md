@@ -6,12 +6,12 @@ for i = 1, 1000 / 7 - 1 do
 end
 ```
 [Player]
-  * WalkSpeed changer (Slider)
-  * JumpPower changer (Slider)
-  * No client damage (No fall damage etc)
+  * WalkSpeed changer
+  * JumpPower changer
+  * No client damage - Breaks client damage attempts (no fall damage, etc)
   * Infinite hunger
   * Infinite stamina
-  * Flyspeed (slider)
+  * Flyspeed
   * Fly (keybind)
   * Noclip (keybind)
   * Car optimization
@@ -19,17 +19,20 @@ end
   * Decoration optimization
   * Remove snow
   * Remove textures
-  * Color overlay (colorpicker for esp)
-  * Brightness (slider)
-  * Contrasts (slider)
-  * Saturation (slider)
-  * Location teleport (dropdown)
-  * Players teleport (dropdown)
-  * Save tools
-  * Load tools
-  * Save tools on death
-  * Save Position (save your current position)
-  * Load position (teleport to saved position)
+  
+  * Color overlay - color overlay for better eye adaptation
+  * Brightness
+  * Contrasts 
+  * Saturation
+  
+  * Location teleport - teleports you to GunStore, safezone, team spawns
+  * Players teleport
+  * Save tools - saves your tools
+  * Load tools - gets your saved tools
+  * Save tools on death - saves your tools once you die
+  * Save Position - saves your current position
+  * Load position - teleports to saved position
+  
   * Player box ESP
   * Player name ESP
   * Player HP ESP
@@ -47,24 +50,24 @@ end
 [Combat]
   * No Recoil
   * No spread
-  * Max damage
+  * Max damage - tries to apply max damage
   * Can break (does not allow weapons to break)
-  * Tracers
-  * Change ammo (slider)
-  * Change damage miltiplier (slider)
-  * Change bullet speed (slider)
-  * Change firerate (slider)
+  * Tracers - enables/disables the tracers of bullets
+  * Change ammo 
+  * Change damage miltiplier - multiplies your damage done from guns
+  * Change bullet speed
+  * Change firerate - speed of shooting
   * Get bat
-  * Bat kill aura
-  * Kill player (dropdown)
+  * Bat kill aura - kills everyone nearby people with bat
+  * Kill player 
     
 [Server]
-  * Tool crasher (crashed the server with tools method)
-  * HTTP crasher ((crashed the server with HTTP method)
-  * Volume (slider)
-  * Music speed (slider)
+  * Tool crasher - crashes the server with tools method
+  * HTTP crasher - crashes the server with HTTP method
+  * Volume - changes music's volume
+  * Music speed - speed of the music
   * Play music
-  * Chat spam message
+  * Chat spam message - spams the chat
   * Include invite
   * Spammming
 
