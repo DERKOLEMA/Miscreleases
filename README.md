@@ -1,6 +1,4 @@
 # [Criminal Russia Roleplay](https://www.roblox.com/games/7094672259/)
-<details><summary>Loadstring</summary>
-<p>
 ```lua
   
 print(1000 - 7)
@@ -8,9 +6,6 @@ for i = 1, 1000 / 7 - 1 do
     print(1000 - i * 7 - 7)
 end
 ```
-</p>
-</details>
- 
 [Player]
   * WalkSpeed changer (Slider)
   * JumpPower changer (Slider)
