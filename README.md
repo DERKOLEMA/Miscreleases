@@ -19,7 +19,7 @@ end
   * Decoration optimization
   * Remove snow
   * Remove textures
-  * Color overlay (colorpicker)
+  * Color overlay (colorpicker for esp)
   * Brightness (slider)
   * Contrasts (slider)
   * Saturation (slider)
@@ -28,8 +28,8 @@ end
   * Save tools
   * Load tools
   * Save tools on death
-  * Save Position
-  * Load position
+  * Save Position (save your current position)
+  * Load position (teleport to saved position)
   * Player box ESP
   * Player name ESP
   * Player HP ESP
@@ -48,7 +48,7 @@ end
   * No Recoil
   * No spread
   * Max damage
-  * Can break
+  * Can break (does not allow weapons to break)
   * Tracers
   * Change ammo (slider)
   * Change damage miltiplier (slider)
@@ -59,8 +59,8 @@ end
   * Kill player (dropdown)
     
 [Server]
-  * Tool crasher
-  * HTTP crasher
+  * Tool crasher (crashed the server with tools method)
+  * HTTP crasher ((crashed the server with HTTP method)
   * Volume (slider)
   * Music speed (slider)
   * Play music
