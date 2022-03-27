@@ -1,5 +1,7 @@
 # [Criminal Russia Roleplay](https://www.roblox.com/games/7094672259/)
-
+```lua
+print ('hello world')
+```
 [Player]
   * WalkSpeed changer (Slider)
   * JumpPower changer (Slider)
