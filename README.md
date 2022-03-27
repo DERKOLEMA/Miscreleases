@@ -64,7 +64,7 @@ end
   * Volume (slider)
   * Music speed (slider)
   * Play music
-  * Chat spam messadge
+  * Chat spam message
   * Include invite
   * Spammming
 
