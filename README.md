@@ -13,8 +13,8 @@ end
   * WalkSpeed changer ~ Done
   * JumpPower changer ~ N/A
   * No client damage - Breaks client damage attempts (no fall damage, etc) ~ N/A
-  * Infinite hunger ~ N/A
-  * Infinite stamina ~ N/A
+  * Infinite hunger ~ WIP
+  * Infinite stamina ~ WIP
   * Flyspeed ~ Done
   * Fly (keybind) ~ Done
   * Noclip (keybind) ~ Done
@@ -23,19 +23,13 @@ end
   * Decoration optimization ~ Done
   * Remove snow ~ Done
   * Remove textures ~ Done
-  
-  * Color overlay - color overlay for better eye adaptation
-  * Brightness
-  * Contrasts 
-  * Saturation
-  
   * Location teleport - teleports you to GunStore, safezone, team spawns  ~ Done
-  * Players teleport
-  * Save tools - saves your tools ~ WIP
-  * Load tools - gets your saved tools  ~ WIP
-  * Save tools on death - saves your tools once you die ~ WIP
-  * Save Position - saves your current position ~ WIP
-  * Load position - teleports to saved position ~ WIP
+  * Players teleport ~ Done
+  * Save tools - saves your tools ~ Done
+  * Load tools - gets your saved tools  ~ Done
+  * Save tools on death - saves your tools once you die ~ Done
+  * Save Position - saves your current position ~ Done
+  * Load position - teleports to saved position ~ Done
     
 [Earnings]
   * Loader autofarm ~ WIP
@@ -48,13 +42,11 @@ end
   * No spread ~ Done
   * Max damage - tries to apply max damage ~ Done
   * Can break (does not allow weapons to break) ~ Done
-  * Tracers - enables/disables the tracers of bullets
-  * Change ammo ~ WIP
-  * Change damage miltiplier - multiplies your damage done from guns
-  * Change bullet speed ~ WIP
-  * Change firerate - speed of shooting ~ WIP
-  * Get bat ~ WIP
-  * Bat kill aura - kills everyone nearby people with bat ~ WIP
+  * Tracers - enables/disables the tracers of bullets ~ Done
+  * Change ammo ~ Done
+  * Change damage miltiplier - multiplies your damage done from guns ~ Done
+  * Change bullet speed ~ Done
+  * Change firerate - speed of shooting ~ Done
   * Kill player ~ WIP
     
 [Server]
