@@ -12,8 +12,8 @@ end
 [Player]
   * WalkSpeed changer ~ Done
   * JumpPower changer ~ N/A
-  * No client damage - Breaks client damage attempts (no fall damage, etc) ~ N/A
-  * Infinite hunger ~ WIP
+  * No client damage - Breaks client damage attempts (no fall damage, etc) ~ Done
+  * Infinite hunger ~ N/A
   * Infinite stamina ~ WIP
   * Flyspeed ~ Done
   * Fly (keybind) ~ Done
@@ -32,10 +32,11 @@ end
   * Load position - teleports to saved position ~ Done
     
 [Earnings]
-  * Loader autofarm ~ WIP
+  * Loader autofarm ~ Done
   * Factory autofarm ~ WIP
-  * Miner autofarm ~ WIP
-  * Collect bottles ~ WIP
+  * Miner autofarm ~ N/A
+  * Method ~ 1/3 Done
+  * Redeem codes ~ Done
 
 [Combat]
   * No Recoil ~ Done
@@ -47,7 +48,6 @@ end
   * Change damage miltiplier - multiplies your damage done from guns ~ Done
   * Change bullet speed ~ Done
   * Change firerate - speed of shooting ~ Done
-  * Kill player ~ WIP
     
 [Server]
   * Tool crasher - crashes the server with tools method ~ WIP
