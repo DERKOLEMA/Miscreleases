@@ -20,6 +20,7 @@ end
   * Noclip (keybind) ~ Done
   * Car optimization ~ WIP
   * Building optimization ~ Done
+  * Shoot optimization ~ Done
   * Decoration optimization ~ Done
   * Remove snow ~ Done
   * Remove textures ~ Done
