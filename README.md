@@ -63,7 +63,6 @@ end
 # [Russia Roleplay](https://www.roblox.com/games/5817894209/)
 ```lua
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Miscreleases/main/RussiaRoleplayGUI"))()```
-
 [Main]
 Change weapons stats
 Totem bandages
