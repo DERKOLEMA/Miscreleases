@@ -65,6 +65,6 @@ end
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Miscreleases/main/RussiaRoleplayGUI"))()
 ```
 [Main]
-Change weapons stats
-Totem bandages
-Game optimization
+ * Change weapons stats
+ * Totem bandages
+ * Game optimization
