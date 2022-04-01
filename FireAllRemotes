@@ -1,0 +1,17 @@
+local remoteFuncs = {}
+do
+    local function fetch(_, item)
+        if item:IsA("RemoteFunction") then
+            table.insert(remoteFuncs, item)
+        end
+    end
+
+    table.foreach(game:GetDescendants(), fetch)
+    table.foreach(getnilinstances(), fetch)
+end
+
+for _ = 1, 10000 do
+    for _, remoteFunc in next, remoteFuncs do
+        coroutine.wrap(remoteFunc.InvokeServer)(remoteFunc)
+    end
+end
