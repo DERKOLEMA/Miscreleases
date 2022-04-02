@@ -12,13 +12,13 @@ end
 [Player]
   * WalkSpeed changer ~ Done
   * JumpPower changer ~ N/A
-  * No client damage - Breaks client damage attempts (no fall damage, etc) ~ Done
+  * No Hurt - Breaks client damage attempts (no fall damage, etc) ~ Done
   * Infinite hunger ~ N/A
-  * Infinite stamina ~ WIP
+  * Infinite stamina ~ N/A
   * Flyspeed ~ Done
   * Fly (keybind) ~ Done
   * Noclip (keybind) ~ Done
-  * Car optimization ~ WIP
+  * Car optimization ~ Done
   * Building optimization ~ Done
   * Shoot optimization ~ Done
   * Decoration optimization ~ Done
@@ -49,6 +49,9 @@ end
   * Change damage miltiplier - multiplies your damage done from guns ~ Done
   * Change bullet speed ~ Done
   * Change firerate - speed of shooting ~ Done
+  * Killaura - Done
+  * Ignore friends - don't kill friends with killaura - Done
+  * Killaura size - Done
     
 [Server]
   * Tool crasher - crashes the server with tools method ~ WIP
