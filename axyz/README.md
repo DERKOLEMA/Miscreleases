@@ -58,19 +58,32 @@ https://discord.gg/VzteNFaffc
 
 
 
-# [Ukraine Roleplay](https://www.roblox.com/games/9504139763/)
+# [Zombie Uprising](https://www.roblox.com/games/4972091010/)
 
-[Main]
-* Delete map
-* Surrender all
-* Kick all
-* Load acs utility
-* Load sound changer
+[Aim assist]
+* Enabled
+* Visible
+* Field Of View
+* Smoothness
 
-# [War call](https://www.roblox.com/games/9202781111/)
+[Ragebot]
+* Enabled
+* No reload
 
-[Main]
-* Anticheat bypass
-* Play custom music
-* Stress the game
-* Copy discord invite
+[Exploit]
+* Crash server
+
+[Chams]
+* Zombies color
+
+[World color]
+* Enabled
+* Brightness
+* Contarst
+* Saturation
+
+[Change primary weapon attachments]
+* Optics, Side, Barrel, Grip
+
+[Change secondary weapon attachments]
+* Optics, Side, Barrel, Grip
