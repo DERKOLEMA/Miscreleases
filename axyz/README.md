@@ -74,7 +74,7 @@ https://discord.gg/VzteNFaffc
 * Crash server
 
 [Chams]
-* Zombies chaams color
+* Zombies chams color
 
 [World color]
 * Enabled
