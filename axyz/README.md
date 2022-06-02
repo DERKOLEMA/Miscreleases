@@ -11,7 +11,7 @@ https://discord.gg/VzteNFaffc
 
 [Walk speed]
   * Change WS
-  * 
+
 [Jump power]
   * Change JP
 
