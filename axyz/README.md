@@ -42,7 +42,7 @@ https://discord.gg/VzteNFaffc
 
 [Sound player]
   * Play custom sound id
-  * Play permamently custom sound id
+  * Play permanently custom sound id
     
 [Fling]
   * Fling specified playe
@@ -50,11 +50,11 @@ https://discord.gg/VzteNFaffc
 [Change skybox]
   * Mode (sphere/cube)
   * Custom skybox imageid
-  * Kepp skybox permamently
+  * Kepp skybox permanently
 
 [Spawn baseplate]
   * Custom baseplate imageid
-  * Keep baseplate permamently
+  * Keep baseplate permanently
 
 
 
@@ -74,7 +74,7 @@ https://discord.gg/VzteNFaffc
 * Crash server
 
 [Chams]
-* Zombies color
+* Zombies chaams color
 
 [World color]
 * Enabled
