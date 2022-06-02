@@ -45,12 +45,12 @@ https://discord.gg/VzteNFaffc
   * Play permanently custom sound id
     
 [Fling]
-  * Fling specified playe
+  * Fling specified player
   
 [Change skybox]
   * Mode (sphere/cube)
   * Custom skybox imageid
-  * Kepp skybox permanently
+  * Keep skybox permanently
 
 [Spawn baseplate]
   * Custom baseplate imageid
