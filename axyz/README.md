@@ -1,4 +1,4 @@
-## **axyz hub**
+## **axyz hub [beta test phase]**
 ```
 https://discord.gg/VzteNFaffc
 ```
