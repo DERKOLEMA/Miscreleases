@@ -94,18 +94,17 @@ https://discord.gg/VzteNFaffc
 [Change starter gui image]
   * Custom starter gui imageid
   
-  
-  
-  
-  
-  
 # [Super Hero Tycoon](https://www.roblox.com/games/574407221/) and [Princess Tycoon](https://www.roblox.com/games/3804735158/)
 
-[WIP]
-* 1
-* 2
-* 3
-* 4
+[Utizilation]
+* Choose target (others, specified player)
+* Choose action (kill, bald, remove arms, remove door, blackhole, mutagen)
+
+[Utizilation]
+* Break guns stands
+* Godmode
+* Loop spawn turrents
+* Loop blackhole others
 
 # [Zombie Uprising](https://www.roblox.com/games/4972091010/)
 
