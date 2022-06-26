@@ -100,7 +100,7 @@ https://discord.gg/VzteNFaffc
 * Choose target (others, specified player)
 * Choose action (kill, bald, remove arms, remove door, blackhole, mutagen)
 
-[Utizilation]
+[Exploits]
 * Break guns stands
 * Godmode
 * Loop spawn turrents
