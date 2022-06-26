@@ -62,6 +62,8 @@ https://discord.gg/VzteNFaffc
 [Morphs]
   * Spongebob
   * Patrick
+  * Thomas
+  * Sheer Heart Attack ( Has AI )
 
 [Sound player]
   * Play custom sound id
@@ -69,6 +71,9 @@ https://discord.gg/VzteNFaffc
     
 [Fling]
   * Fling specified player
+  
+[Kill]
+  * Kill specified player
   
 [Change skybox]
   * Mode (sphere/cube)
@@ -79,7 +84,28 @@ https://discord.gg/VzteNFaffc
   * Custom baseplate imageid
   * Keep baseplate permanently
 
+[Change center image]
+  * Custom center imageid
+ 
+[Color correction]
+  * Change saturation value
+  * Anti color correction
+  
+[Change starter gui image]
+  * Custom starter gui imageid
+  
+  
+  
+  
+  
+  
+# [Super Hero Tycoon](https://www.roblox.com/games/574407221/) and [Princess Tycoon](https://www.roblox.com/games/3804735158/)
 
+[WIP]
+* 1
+* 2
+* 3
+* 4
 
 # [Zombie Uprising](https://www.roblox.com/games/4972091010/)
 
